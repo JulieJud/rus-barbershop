@@ -1,1 +1,1 @@
-# rus-barbershop
+# Barbershop
